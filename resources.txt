@@ -19,6 +19,9 @@ https://source.leet.ma/project?project=born2beroot
 https://crontab.guru/#
 
 
+In case of troubls with ssh :
+	sed '/127.0.0.1/d' ~/.ssh/known_hosts > ~/.ssh/known_hosts
+
 
 
 
